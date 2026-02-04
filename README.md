@@ -3,6 +3,6 @@ Python-Training
 # Topics covered
 - Use of webpage https://py3.codeskulptor.org/#user311_wLscZMG4J5_2.py
 - Github account creation
-- Pycharm installation on machine
+- PyCharm installation on machine
   Typical flow expected : Write code in PyCharm, Upload/Push to Github
-  Python must be installed to run the code in PyCharm ? 
+  Python must be installed to run the code in PyCharm.
